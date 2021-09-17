@@ -58,15 +58,14 @@ The patient can search for the concerned doctor within our database or any other
 6.	He/she would have an option to choose the doctor. Suppose the patient chooses a doctor, an appointment request would be sent to that particular doctor.
 
 
-## 3.	APPOINTMENT CONFIRMATION:<br>
+### 3.	APPOINTMENT CONFIRMATION:<br>
 The doctor can set up an appointment with the patient for further consultation and diagnosis if he/she feels the need for the same. This will also replace the manual procedures of recording the appointment dates thereby increasing the reliability, efficiency and performance of the product. 
 
 <b> RESPONSE SEQUENCE:</b><br>
 1.	The doctor would receive an appointment request from a patient.
 2.	The doctor would send the appointment confirmation.
 
-
-## 4.	PRESCRIPTION:
+### 4.	PRESCRIPTION:
 Doctors can send a prescription which can then be viewed by the patient. Depending upon the prediction, the doctor can decide whether to keep the further follow ups in an offline mode by fixing the appointment through the portal and asking the patient to follow the prescription till the next check-up or a course of the medicine for a certain period suggested is enough to recover from the disease.
 
 <b>RESPONSE SEQUENCE:</b><br>
@@ -74,7 +73,7 @@ Doctors can send a prescription which can then be viewed by the patient. Dependi
 2.	The patient would be able to view the prescription sent by the doctor.
 
 
-## 5.	QUESTION AND ANSWER (QnA):<br>
+### 5.	QUESTION AND ANSWER (QnA):<br>
 The patients and doctors are provided with a chat functionality for any active treatment. This facility helps the concerned patient and doctor to communicate with one another when it comes to fixing appointment dates or telling the precautions that the patient needs to take in case of emergency.
 
 <b> RESPONSE SEQUENCE:</b>
@@ -83,7 +82,7 @@ The patients and doctors are provided with a chat functionality for any active t
 2.	The patient can ask a question to the doctor and the doctor can respond to it.
 
 
-## 6.	CHANGE PASSWORD: <br>
+### 6.	CHANGE PASSWORD: <br>
 The patients and doctors are provided with a functionality to change their password. They would have to logout and then on the login page they would find an option by clicking on which they can change their password.
 
 <b>RESPONSE SEQUENCE:</b>
