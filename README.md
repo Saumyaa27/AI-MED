@@ -1,6 +1,4 @@
-# AI-MED
-
-## AI MED - Disease prediction and patient management system
+# AI MED - Disease prediction and patient management system
 
 ## WEBSITE: https://smathur.pythonanywhere.com
 
@@ -9,13 +7,15 @@ The COVID-19 pandemic has drastically reduced the routine visits made by the pat
 
 The product would reduce the chances of disease transmission and would also be convenient for both the patient and the doctor especially residing in high alert areas. This would also help to overcome the problem of deficiency of human resources in the health sector which is prevalent at several levels such as between regions, between rural and urban areas and between private and public sectors. This challenge is solved by providing the feature that doctors throughout the country can sign up at our portal thus providing the benefit of consulting the health care specialists in the respective fields and bridging the gap between different sections of the society.
 
-OVERVIEW:
+## OVERVIEW:
+
 The portal would provide an e-consultation facility to the patients. The patients can sign up at the portal. After logging in the patients would observe there are various sections that cater to their needs. A section for predicting the disease that they are likely to suffer from where they can fill a form by providing their details along with the symptoms witnessed. Based on the result of the prediction, the patients can search for the specialised doctors and share the prediction results with the selected doctor. 
 
 The doctors across the country can register themselves on our portal specifying the fields that they have been working in. Once logged in then each doctor will receive notifications regarding the patients who have approached them along with their details including their symptoms. The doctor can provide a confirmation of the appointment and if required they can even provide the patient with the prescription that needs to be followed till the appointment date. This will help overcome the challenge of increased drop rate in the regular patient visits and also help patients to consult the doctors in case of emergency situations by fixing an appointment without the need to visit the hospital regarding the same. 
 
-PRODUCT FEATURES:
-1.	REGISTRATION/ LOGIN: 
+## PRODUCT FEATURES:
+
+### 1.	REGISTRATION/ LOGIN: <br>
 The patients and the doctors need to register on the portal before they can start accessing the functionalities which are available to them. After login, they will be assigned a token to make sure that they are authenticated users.
 
 RESPONSE SEQUENCE:
