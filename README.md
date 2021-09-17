@@ -94,19 +94,19 @@ The patients and doctors are provided with a functionality to change their passw
 
 ## USER INTERFACES:<br>
 ### 1.	Patient interface:<br>
-•	The patient would see a register button upon clicking on which a registration form would open.
-•	After registration, the patient would have a Login button which on clicking would open a login form.
-•	After the authentication is done, the patient would be able to view all the options that our portal provides and the basic instructions.
-•	A tab for disease prediction would open on clicking the predict disease button. This would contain a form which would ask the patient to select the symptoms he/she is witnessing.
-•	The Patient would have a button option to search for the concerned doctor once the disease has been predicted .It would show a list of doctors whom the patient can consult by asking for an appointment. The patient would receive a notification once the doctor has confirmed the appointment.
-•	A tab is provided to review the prescription sent by the doctor which the patient needs to follow up with until the next appointment. 
-•	There would also be an option for QnA with the doctor.
+•	The patient would see a register button upon clicking on which a registration form would open.<br>
+•	After registration, the patient would have a Login button which on clicking would open a login form.<br>
+•	After the authentication is done, the patient would be able to view all the options that our portal provides and the basic instructions.<br>
+•	A tab for disease prediction would open on clicking the predict disease button. This would contain a form which would ask the patient to select the symptoms he/she is witnessing.<br>
+•	The Patient would have a button option to search for the concerned doctor once the disease has been predicted .It would show a list of doctors whom the patient can consult by asking for an appointment. The patient would receive a notification once the doctor has confirmed the appointment.<br>
+•	A tab is provided to review the prescription sent by the doctor which the patient needs to follow up with until the next appointment. <br>
+•	There would also be an option for QnA with the doctor.<br>
 
 
 ### 2.	Doctor interface:<br>
-•	The doctor would see a register as a doctor button upon clicking on which a registration form would open (in case if he/she has not registered before).
-•	After registration, the doctor would have a Login button which on clicking would open a login form.
-•	After the authentication is done, the doctor would be able to view all the options that our portal provides and the basic instructions.
-•	A tab for active patient’s details would open on clicking the view details button. This would contain all the details of the active patient such as age, weight etc.
-•	There will also be another tab to review appointment requests of patients in which the doctor would have an option to schedule an appointment for the patient.
-•	The doctor can also prescribe patients appropriate medication based on the disease predicted. Also there will be an option to update or modify the prescriptions as in some cases with time dosage of medicine to be taken changes.
+•	The doctor would see a register as a doctor button upon clicking on which a registration form would open (in case if he/she has not registered before).<br>
+•	After registration, the doctor would have a Login button which on clicking would open a login form.<br>
+•	After the authentication is done, the doctor would be able to view all the options that our portal provides and the basic instructions.<br>
+•	A tab for active patient’s details would open on clicking the view details button. This would contain all the details of the active patient such as age, weight etc.<br>
+•	There will also be another tab to review appointment requests of patients in which the doctor would have an option to schedule an appointment for the patient.<br>
+•	The doctor can also prescribe patients appropriate medication based on the disease predicted. Also there will be an option to update or modify the prescriptions as in some cases with time dosage of medicine to be taken changes.<br>
