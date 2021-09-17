@@ -57,11 +57,11 @@ The patient can search for the concerned doctor within our database or any other
 5.	Based on the disease predicted, the patient would be shown a list of doctors.
 6.	He/she would have an option to choose the doctor. Suppose the patient chooses a doctor, an appointment request would be sent to that particular doctor.
 
-<br>
+
 ## 3.	APPOINTMENT CONFIRMATION:<br>
 The doctor can set up an appointment with the patient for further consultation and diagnosis if he/she feels the need for the same. This will also replace the manual procedures of recording the appointment dates thereby increasing the reliability, efficiency and performance of the product. 
 
-### RESPONSE SEQUENCE:<br>
+<b> RESPONSE SEQUENCE:</b><br>
 1.	The doctor would receive an appointment request from a patient.
 2.	The doctor would send the appointment confirmation.
 
@@ -69,7 +69,7 @@ The doctor can set up an appointment with the patient for further consultation a
 ## 4.	PRESCRIPTION:
 Doctors can send a prescription which can then be viewed by the patient. Depending upon the prediction, the doctor can decide whether to keep the further follow ups in an offline mode by fixing the appointment through the portal and asking the patient to follow the prescription till the next check-up or a course of the medicine for a certain period suggested is enough to recover from the disease.
 
-### RESPONSE SEQUENCE:<br>
+<b>RESPONSE SEQUENCE:</b><br>
 1.	The doctor would view the predicted disease and other details of the patient and send him a prescription for the same.
 2.	The patient would be able to view the prescription sent by the doctor.
 
@@ -77,7 +77,7 @@ Doctors can send a prescription which can then be viewed by the patient. Dependi
 ## 5.	QUESTION AND ANSWER (QnA):<br>
 The patients and doctors are provided with a chat functionality for any active treatment. This facility helps the concerned patient and doctor to communicate with one another when it comes to fixing appointment dates or telling the precautions that the patient needs to take in case of emergency.
 
-### RESPONSE SEQUENCE:
+<b> RESPONSE SEQUENCE:</b>
 
 1.	The patient and the doctor would be able to chat via the QnA section.
 2.	The patient can ask a question to the doctor and the doctor can respond to it.
@@ -86,7 +86,7 @@ The patients and doctors are provided with a chat functionality for any active t
 ## 6.	CHANGE PASSWORD: <br>
 The patients and doctors are provided with a functionality to change their password. They would have to logout and then on the login page they would find an option by clicking on which they can change their password.
 
-### RESPONSE SEQUENCE:
+<b>RESPONSE SEQUENCE:</b>
 
 1.	The patient and the doctor would have to logout.
 2.	They would find the change password option on the login page.
