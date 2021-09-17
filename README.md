@@ -110,3 +110,67 @@ The patients and doctors are provided with a functionality to change their passw
 •	A tab for active patient’s details would open on clicking the view details button. This would contain all the details of the active patient such as age, weight etc.<br>
 •	There will also be another tab to review appointment requests of patients in which the doctor would have an option to schedule an appointment for the patient.<br>
 •	The doctor can also prescribe patients appropriate medication based on the disease predicted. Also there will be an option to update or modify the prescriptions as in some cases with time dosage of medicine to be taken changes.<br>
+
+### VISUALS:<br>
+•	LANDING PAGE:<br>
+![image](https://user-images.githubusercontent.com/43125368/133766319-8d7f521b-1fde-40db-875c-5960a7fd080c.png)
+
+
+•	PREDICTIONS:<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766377-7cf163a0-27c4-45b9-978b-b05d9f510158.png)
+
+
+•	DOCTORS:<br>
+![image](https://user-images.githubusercontent.com/43125368/133766396-9eedd972-2dba-4ba5-9790-f38c9877dfc2.png)
+ 
+
+•	REGISTRATION PAGE:<br>
+![image](https://user-images.githubusercontent.com/43125368/133766436-22ab9c5c-a182-4f5c-b021-182c063641af.png)
+
+
+•	LOGIN PAGE:<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766464-3d68cd97-1aa4-4f6b-9a39-28414d0b7d35.png)
+
+
+•	HOMEPAGE AFTER LOGGING IN:<br>
+![image](https://user-images.githubusercontent.com/43125368/133766500-f253ffe2-9bc5-47bc-a61b-732d8ccfdbc2.png)
+ 
+
+•	ABOUT US SECTION:<br>
+![image](https://user-images.githubusercontent.com/43125368/133766519-e1c3946b-dcbb-49f1-a1d8-897c0139ec9a.png)
+ 
+
+•	DISEASE PREDICTION (PATIENT’S VIEW):<br>
+![image](https://user-images.githubusercontent.com/43125368/133766545-8f0df0cc-ae4e-48e6-8d70-4f490f0dd40d.png)
+ 
+
+•	DOCTOR SUGGESTION (PATIENT’S VIEW):<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766570-d318cf35-4533-443d-9e63-8fc00bb17001.png)
+
+
+•	ALL TREATMENTS (PATIENT’S VIEW):<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766596-c5b35218-082c-41c0-8b22-91500d849ee7.png)
+
+
+•	VIEW TREATMENT (PATIENT’S VIEW):<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766615-da19d15e-b4a1-466d-975b-aeb0bd3f310b.png)
+
+
+•	NEW REQUESTS (DOCTOR’S VIEW):<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766639-4d08eca1-8331-4e0f-8024-e42c038b2846.png)
+
+
+•	ACTIVE PATIENTS (DOCTOR’S VIEW):<br>
+ ![image](https://user-images.githubusercontent.com/43125368/133766658-867b1866-6284-4e34-b216-ba23c98b16bc.png)
+
+
+•	VIEW TREATMENT (DOCTOR’S VIEW):<br>
+![image](https://user-images.githubusercontent.com/43125368/133766678-46e8c8ea-cef8-47bf-8a36-6c66dd85d89b.png)
+
+ 
+
+
+
+
+
+
