@@ -1,10 +1,10 @@
 # AI-MED
 
-AI MED - Disease prediction and patient management system
+## AI MED - Disease prediction and patient management system
 
-WEBSITE: https://smathur.pythonanywhere.com
+## WEBSITE: https://smathur.pythonanywhere.com
 
-MOTIVATION:
+## MOTIVATION:<br>
 The COVID-19 pandemic has drastically reduced the routine visits made by the patients which includes the routine care for pregnant women, elderly patients and timely immunisation of the infants. Everything today is moving towards digitalization. Also, a major challenge faced by many healthcare organisations is the provision of quality medical services at affordable costs which implies proper diagnosis of the patient. Most of the people lack means to consult a doctor specialised in the field that they are looking for. The product proposed by us focuses on the methods by which we can overcome these challenges.
 
 The product would reduce the chances of disease transmission and would also be convenient for both the patient and the doctor especially residing in high alert areas. This would also help to overcome the problem of deficiency of human resources in the health sector which is prevalent at several levels such as between regions, between rural and urban areas and between private and public sectors. This challenge is solved by providing the feature that doctors throughout the country can sign up at our portal thus providing the benefit of consulting the health care specialists in the respective fields and bridging the gap between different sections of the society.
