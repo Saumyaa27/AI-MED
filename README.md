@@ -18,13 +18,15 @@ The doctors across the country can register themselves on our portal specifying 
 ### 1.	REGISTRATION/ LOGIN: <br>
 The patients and the doctors need to register on the portal before they can start accessing the functionalities which are available to them. After login, they will be assigned a token to make sure that they are authenticated users.
 
-RESPONSE SEQUENCE:
+<b>RESPONSE SEQUENCE:</b>
+
 Registration:
 
 1.	Users would click on the register button.
 2.	The user will be presented with a form in which they will fill all the required details.
 3.	The System will check the validity of the password and email followed by whether the data is valid or not 
 4.	A user account will be created if all the details are valid.
+
 
 Login:
 
@@ -34,16 +36,19 @@ Login:
 4.	If details are valid, Then the user will be logged in.
 
 
-2.	DISEASE PREDICTION AND DOCTOR SUGGESTION:
+### 2.	DISEASE PREDICTION AND DOCTOR SUGGESTION:<br>
 Patients fill their symptoms in a form and according to that the system predicts the disease through machine learning models. The models are trained using various algorithms such as:
 
 DECISION TREES:
+
 It is used for classification as well as regression tasks. It is a flowchart-like structure where each internal node represents a test on the various symptoms entered by the user and each leaf node represents the class label i.e. the diseases.
+
 NAIVE BAYES:
+
 It is a classifier which works on Bayes theorem. The prediction of membership probabilities is made for every class of disease such as the given set of symptoms is associated with a given disease (eg: fungal infection).
 The patient can search for the concerned doctor within our database or any other doctor based on their location.
 
-RESPONSE SEQUENCE:
+<b>RESPONSE SEQUENCE:</b>
 
 1.	After logging into the portal, the patient will have to navigate to the tab which requires the patient to fill the symptoms.
 2.	The patient would have to select the appropriate symptom from the list so offered.
