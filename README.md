@@ -167,7 +167,6 @@ The patients and doctors are provided with a functionality to change their passw
 ![image](https://user-images.githubusercontent.com/43125368/133766678-46e8c8ea-cef8-47bf-8a36-6c66dd85d89b.png)
 
 
-WORKFLOW: <BR>
-![workflow (1)](https://user-images.githubusercontent.com/43125368/133976802-88287c42-e31e-4277-8ef8-acc1494dc3a1.png)
+WORKFLOW DIAGRAM: <BR>
 ![workflow](https://user-images.githubusercontent.com/43125368/133978106-66a3543e-7d81-4046-8fcd-6ecdc1b7666f.jpg)
 
