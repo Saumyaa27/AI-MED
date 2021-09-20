@@ -166,10 +166,7 @@ The patients and doctors are provided with a functionality to change their passw
 •	VIEW TREATMENT (DOCTOR’S VIEW):<br>
 ![image](https://user-images.githubusercontent.com/43125368/133766678-46e8c8ea-cef8-47bf-8a36-6c66dd85d89b.png)
 
- 
 
-
-
-
-
+WORKFLOW: <BR>
+![workflow (1)](https://user-images.githubusercontent.com/43125368/133976802-88287c42-e31e-4277-8ef8-acc1494dc3a1.png)
 
